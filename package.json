@@ -1,0 +1,10 @@
+{
+  "name": "@awea/outdatedbrowser",
+  "version": "1.0.0",
+  "description": "A small utility to identify old browsers and toggle a modal",
+  "main": "index.js",
+  "repository": "https://github.com/Awea/outdatedbrowser",
+  "author": "Awea <aweaoftheworld@gmail.com>",
+  "license": "GPL-3.0",
+  "private": false
+}
